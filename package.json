@@ -20,5 +20,5 @@
   },
   "resolutions": {
     "esbuild": "0.15.9"
-  },  
+  }
 }
